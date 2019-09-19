@@ -1,5 +1,4 @@
-## https://abrilvg.github.io/richEditor
-## This project was bootstrapped with Create React App.
+## Website: https://abrilvg.github.io/richEditor
 
 ## Initial setup
 Run `npm install` in order to setup application
