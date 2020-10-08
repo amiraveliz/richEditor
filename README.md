@@ -1,4 +1,4 @@
-## Website: https://abrilvg.github.io/richEditor
+## Website: https://amiraveliz.github.io/richEditor/
 
 ## Initial setup
 Run `npm install` in order to setup application
